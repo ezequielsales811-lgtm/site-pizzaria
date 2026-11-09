@@ -1,8 +1,23 @@
-# # 🍕 Pizzaria do Ezequiel
-Site de cardápio digital para pizzaria, feito em HTML, CSS e JavaScript.
+# 🍕 Pizzaria do Ezequiel
 
-O cliente consegue ver as pizzas, os preços e clicar para pedir.
+Site de demonstração feito em HTML e CSS puro.
+Projeto criado para portfólio de desenvolvedor web júnior.
 
-Feito por Ezequiel Sales - Desenvolvedor Júnior
+### 🔗 Ver o site no ar:
+https://ezequielsales811-lgtm.github.io/site-pizzaria/
 
-Link do site: https://ezequielsales811-lgtm.github.io/site-pizzaria/
+### O que tem no site:
+- Página inicial com cardápio
+- 3 sabores de pizza com foto e preço
+- Botões de pedido
+- Design responsivo para celular
+
+### Tecnologias usadas:
+- HTML
+- CSS
+- JavaScript básico
+- GitHub Pages
+
+---
+Feito por **Ezequiel Sales** - Desenvolvedor Júnior
+📍 Nazaré da Mata - PE
